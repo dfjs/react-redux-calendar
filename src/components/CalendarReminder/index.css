@@ -1,0 +1,7 @@
+.CalendarReminder__reminder {
+  font-size: .7em;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  cursor: pointer;
+}

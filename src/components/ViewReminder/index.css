@@ -1,0 +1,17 @@
+.ViewReminder {
+  margin-top: 15px;
+}
+
+.ViewReminder__details {
+  margin: 0 0 20px 0;
+  padding: 0;
+}
+
+.ViewReminder__text,
+.ViewReminder__datetime {
+  margin-bottom: 10px;
+}
+
+.ViewReminder .Button {
+  margin-right: 15px;
+}

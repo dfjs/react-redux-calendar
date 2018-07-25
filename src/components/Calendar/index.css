@@ -1,0 +1,20 @@
+.Calendar {
+  margin-top: 10px;
+}
+
+.Calendar:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.Calendar__week-days {
+  padding: 10px 0;
+  border-bottom: 1px solid #ccc;
+}
+
+.Calendar__week-day {
+  display: inline-block;
+  width: calc(100%/7);
+  text-align: center;
+}

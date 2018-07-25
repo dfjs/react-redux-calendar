@@ -1,0 +1,33 @@
+.ReminderForm {
+  padding: 20px;
+}
+
+.ReminderForm__header {
+  margin-bottom: 10px;
+}
+
+.ReminderForm__invalid-date {
+  color: red;
+}
+
+.ReminderForm__field {
+  padding: 10px 0;
+}
+
+.ReminderForm label {
+  min-width: 60px;
+  display: inline-block;
+}
+
+.ReminderForm input[type='text'],
+.ReminderForm input[type='color'],
+.ReminderForm input[type='date'] {
+  min-width: 180px;
+  margin-left: 10px;
+  font-size: 1em;
+}
+
+.ReminderForm input[type='submit'] {
+  margin-top: 10px;
+  font-size: 1em;
+}

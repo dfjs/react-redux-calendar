@@ -1,0 +1,28 @@
+.App {
+  margin: 0 auto;
+  padding: 20px;
+  max-width: 1024px;
+}
+
+.App__header {
+  margin-bottom: 20px;
+  font-size: 1.5em;
+}
+
+.Button {
+  padding: 3px 10px;
+  font-size: .9em;
+  border-radius: 5px;
+}
+
+.Button--positive {
+  background: lightgreen;
+}
+
+.Button--negative {
+  background: orangered;
+}
+
+.pull-right {
+  float: right;
+}

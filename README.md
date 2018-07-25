@@ -8,9 +8,11 @@ Note: This project was bootstrapped with [Create React App](https://github.com/f
 
 - Ability to add a new Reminder (max 30 chars), along with a date and time
 - View the reminders in the calendar - time-ordered
+- Allow user to select a colour for their Reminder (and show it in the Calendar)
 - Basic overflow (scroll) for more many Reminders in a day, also shortening (... / ellipsis) for long Reminders
+- Allow user to edit their Reminders
+- Allow user to delete their Reminders
 - Supports changing months (within 2018)
-
 
 ## Setup/environment requirements
 

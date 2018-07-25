@@ -28,8 +28,8 @@ Note: This project was bootstrapped with [Create React App](https://github.com/f
 ### 1. Get A Calendar
 
 ```
-$ git clone https://github.com/dfjs/a-calendar
-$ cd a-calendar
+$ git clone https://github.com/dfjs/react-redux-calendar
+$ cd react-redux-calendar
 ```
 
 ### 2. Get going!
